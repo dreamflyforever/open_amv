@@ -23,4 +23,5 @@ CMOS 尺寸：1/2.8 英寸
 最佳工作温度范围: -20°C ~ +60°C  
 最大图像传输速率: 2304H x 1296V@30fps 10bit  
 输出格式: RAW RGB/yuv/jpeg  
+尺寸: 27x27mm
 ![摄像头样品](https://github.com/dreamflyforever/open_amv/blob/main/img/camera.jpg)  
